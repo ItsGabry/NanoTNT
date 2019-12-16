@@ -3,4 +3,4 @@ main: ItsGabry\NanoTNT\Main
 api: 3.0.0
 version: 1.0
 author: ItsGabry
-description: Simple plugin to modify the tnt explosion
+description: Simple plugin to modify the radius of tnt explosion
